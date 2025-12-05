@@ -1,0 +1,43 @@
+.pokemon_detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  font-size: 2rem;
+}
+
+.pokemon_detail .pokemon_image {
+  height: 10rem;
+}
+
+.pokemon_detail .types {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pokemon_detail .type_images {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+}
+
+.pokemon_detail .type_image {
+  height: 4rem;
+}
+
+.pokemon_evolutions_title {
+  color: white;
+  font-size: 2rem;
+}
+
+.pokemon_evolutions_list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.pokemon_details {
+  width: 100%;
+}
