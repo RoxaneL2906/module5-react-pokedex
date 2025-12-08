@@ -1,3 +1,8 @@
+.pokemon_details p {
+  margin: 0.5rem;
+  font-size: 1.25rem;
+}
+
 .pokemon_detail {
   display: flex;
   flex-direction: column;
