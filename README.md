@@ -2,6 +2,8 @@
 
 Pokédex développé avec React et Vite.
 
+> ⚠️ **API indisponible** : Ce projet utilise `pokebuildapi.fr` qui est actuellement hors service. L'application s'affiche mais les Pokémons ne se chargent pas.
+
 ## Programme
 React et Vite - SPA réactive
 
